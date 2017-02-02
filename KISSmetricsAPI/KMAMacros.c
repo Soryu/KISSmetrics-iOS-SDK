@@ -19,7 +19,7 @@
 
 
 #ifndef KMALogVerbose
-#  define KMALogVerbose 1
+#  define KMALogVerbose 0
 #endif
 
 /* Our own internal logging */
